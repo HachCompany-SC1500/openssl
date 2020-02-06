@@ -1,2 +1,0 @@
-# openssl
-secure sockets layer
